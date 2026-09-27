@@ -6,8 +6,8 @@ Judul Analisis:   Analisis Data Kualitas Udara Kota Pune
 | Nicholas Gerard Rante | 5027261109 |
 | Ardyssa Kanani Aritya Wijaya | 5027261136 |
 
-Topik yang dipilih :   Smartcity
-Sumber Dataset : Kaggle, dapat diakses melalui tautan https://www.kaggle.com/datasets/akshman/pune-smartcity-test-dataset
+Topik yang dipilih :   *Smartcity*
+<br>Sumber Dataset : Kaggle, dapat diakses melalui tautan https://www.kaggle.com/datasets/akshman/pune-smartcity-test-dataset
 
 # 3 Temuan Utama
 1. Pada mayoritas area (7 dari 10), jenis polutan yang mendominasi adalah CO2.
